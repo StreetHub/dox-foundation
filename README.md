@@ -6,6 +6,10 @@ Use [dox](https://github.com/visionmedia/dox) to automatically generate beautifu
 
 Outputted HTML is based on templates and css from [ZURB's Foundation](http://foundation.zurb.com/) and syntax highlighting is done by [Prism.js](http://prismjs.com/).
 
+## Streethub test
+
+`bin/dox-foundation --source examples/example.js --target docs`
+
 ## Example time!
 
 See <http://dox-foundation-demo.herokuapp.com/> ([source](https://github.com/tlvince/dox-foundation-demo)) for an interactive demo, ran against Express.
